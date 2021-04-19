@@ -26,6 +26,8 @@ class Simple{
         t=r; //copy value of y to x
         System.out.println(r); //Prints ?
         System.out.println(t); //Prints ? 
+        System.out.println(r); //Prints ?
+        System.out.println(t); //Prints ? 
         
        /* int x=100;
         int y=200;
