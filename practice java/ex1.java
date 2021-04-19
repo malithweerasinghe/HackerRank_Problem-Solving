@@ -6,8 +6,8 @@ import java.util.Scanner;
 class ex1{
       public static void main(String[]args){
             System.out.println("Rashan Malith");
-            System.out.println("Hello Rashan");
-            System.out.println("Hello Malith");
+            System.out.println("Hello Rashan malith");
+            System.out.println("Hello Malith test");
             System.out.print("N");
         System.out.print("No 30,");
         System.out.print("Walana Road,");    
